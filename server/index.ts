@@ -15,7 +15,7 @@ const app = express();
 const port = process.env.PORT || 3001;
 
 const corsOptions = {
-    origin: 'https://eco-2-lac.vercel.app', // A URL CORRETA DO SEU FRONTEND
+    origin: 'https://eco333.vercel.app', // A URL CORRETA DO SEU FRONTEND
     methods: 'POST',
     allowedHeaders: 'Content-Type,Authorization',
 };
